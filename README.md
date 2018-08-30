@@ -1,14 +1,14 @@
 # MIS497 First Github Assignment
 
 ##### You will need to set up a GitHub account and download/install Git prior to starting
+##### You can find the resources you will need at https://mis-497-01.herokuapp.com/index.html
+
 
 Fill in your details and run these commands in the command prompt to set your credintials 
 ```
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
-
 ```
-
 
 ## Steps to contributing
 1. In the top right, click Fork
