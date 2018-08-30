@@ -5,6 +5,7 @@
 ## Steps to contributing
 1. In the top right, click Fork
 2. Next click clone or download, and copy the URL
+> git clone <URL>
 3. Open the folder in Brackets 
 4. Add your name + CSS styling
 5. Commit your changes 
